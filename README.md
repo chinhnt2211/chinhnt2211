@@ -1,5 +1,5 @@
 ## Hello there! I'm Chinh! <img src = "https://user-images.githubusercontent.com/86866053/145815935-02c7bca5-aed6-40b3-9c80-951bb3839fdd.png" width= "20px" height = "20px" />
-### <img src = "https://user-images.githubusercontent.com/86866053/145816789-dab274d2-78cd-4fd1-b10f-c7df73538e96.png" width= "20px" height = "20px" />I'm living in Hanoi, VietNam.
+### I'm living in Hanoi, VietNam <img src = "https://user-images.githubusercontent.com/86866053/145816789-dab274d2-78cd-4fd1-b10f-c7df73538e96.png" width= "20px" height = "20px" />
 
 <br/>
 <br/>
