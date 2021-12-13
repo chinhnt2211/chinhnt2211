@@ -1,4 +1,4 @@
-## Hello there! I'm Chinh![<img src = "https://user-images.githubusercontent.com/86866053/145815935-02c7bca5-aed6-40b3-9c80-951bb3839fdd.png" width= "20px" height = "20px" />]. 
+## Hello there! I'm Chinh! <img src = "https://user-images.githubusercontent.com/86866053/145815935-02c7bca5-aed6-40b3-9c80-951bb3839fdd.png" width= "20px" height = "20px" />. 
 ### I'm living in Hanoi, VietNam.
 
 
